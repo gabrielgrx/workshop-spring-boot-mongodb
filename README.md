@@ -35,11 +35,12 @@ API Restful com Spring Boot e banco MongoDB é um web service + NoSQL construíd
 <img src="https://github.com/gabrielgrx/workshop-spring-boot-mongodb/blob/main/asserts/3.PNG" width=70% height=70%>
 <img src="https://github.com/gabrielgrx/workshop-spring-boot-mongodb/blob/main/asserts/4.PNG" width=70% height=70%>
 
-## Modelo conceitual
-<img src="https://github.com/gabrielgrx/workshop-springboot3-jpa/blob/main/assets/Modelo%20de%20Dominio.PNG" width=70% height=70%>
+## Domain Model
+<img src="https://github.com/gabrielgrx/workshop-spring-boot-mongodb/blob/main/asserts/5.PNG" width=70% height=70%>
 
-## Instância de domínio
-<img src="https://github.com/gabrielgrx/workshop-springboot3-jpa/blob/main/assets/Diagrama%20de%20Objetos.PNG" width=70% height=70%>
+## Estrutura de agregado
+<img src="https://github.com/gabrielgrx/workshop-spring-boot-mongodb/blob/main/asserts/6.PNG" width=70% height=70%>
+
 
 # Autor
 
